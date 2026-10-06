@@ -1,2 +1,5 @@
 # jarvos
-JarvOS - Маленькая ОС
+JarvOS - Маленький проект от JarvProject
+# Данные
+## Язык программирования: 
+* GoLang
